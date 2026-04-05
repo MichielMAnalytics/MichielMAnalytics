@@ -29,6 +29,14 @@ Previously at Microsoft and Booking.com. Founded Scipio.ai and Melchior Analytic
 
 ## Open Source
 
+### Azin / Boxd
+
+- 📦 [boxd](https://github.com/azin-tech/boxd) - The boxd runtime — KVM-based microVMs in Rust
+- 🧰 [mini-tools](https://github.com/azin-tech/mini-tools) - 22 zero-config developer utilities — YAML, JSON, Base64, Cron, DNS, JWT, Dockerfile, and more
+- 📖 [boxd-docs](https://github.com/azin-tech/boxd-docs) - Boxd documentation
+
+### Personal
+
 - 🧬 [lifeos](https://github.com/MichielMAnalytics/lifeos) - Personal Life Operating System — CLI + API + Dashboard with 6 themes. Open source, self-hostable.
 - 🐦 [bird-rebuilt](https://github.com/MichielMAnalytics/bird-rebuilt) - Twitter/X CLI client
 - 💼 [bird-linkedin](https://github.com/MichielMAnalytics/bird-linkedin) - LinkedIn CLI using undocumented Voyager API with anti-detection
