@@ -13,7 +13,7 @@
 
 > I build multi-agent systems and autonomous workflows. Deep in agent SDKs, memory architectures, planning/reasoning patterns, and everything it takes to make AI agents reliable at scale.
 
-Previously at Microsoft and Booking.com. Founded Scipio.ai and Melchior Analytics.
+Co-founder of [Azin](https://azin.run) and [Rule1](https://rule1.ai). Previously at Microsoft and Booking.com.
 
 2:42 marathoner. Chess enthusiast.
 
