@@ -25,7 +25,17 @@ Previously at Microsoft and Booking.com. Founded Scipio.ai and Melchior Analytic
 
 📦 [boxd.sh](https://boxd.sh) – Instant remote computers, built on Azin. Persistent, forkable Linux machines with sub-millisecond resume. SSH-first, custom Rust VMM, <60ms fork. Costs nothing while it sleeps.
 
-🐾 [clawnow](https://azin.run/product/claw-now) – OpenClaw deployment platform on Azin.
+🐾 [clawnow](https://azin.run/product/claw-now) (closed source) – OpenClaw deployment platform on Azin.
+
+---
+
+## Closed Source
+
+- 🎵 bird-tiktok - TikTok CLI client — completing the bird suite
+- 🧠 agentic-summaries - Finding signals through the noise
+- 🚨 on-chain-alert-system - On-chain alert system
+- 🤖 ml-inference-api - ML inference API
+- 📬 event-pipeline - Event pipeline
 
 ---
 
