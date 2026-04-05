@@ -44,4 +44,5 @@ Previously at Microsoft and Booking.com. Founded Scipio.ai and Melchior Analytic
 - 📱 [portfolio-app](https://github.com/MichielMAnalytics/portfolio-app) - Folio — iOS portfolio tracker with crypto, screenshot import via LLM, CSV import
 - 🤖 [remote-mcp-server](https://github.com/MichielMAnalytics/remote-mcp-server) - Remote MCP server
 - 📡 [telegram-public-channel-mcp](https://github.com/MichielMAnalytics/telegram-public-channel-mcp) - Telegram public channel MCP integration
+- 📣 [meta-ads-mcp](https://github.com/MichielMAnalytics/meta-ads-mcp) - MCP server to manage Facebook and Instagram Ads (Meta Ads)
 - 🔍 [reddit_analysis](https://github.com/MichielMAnalytics/reddit_analysis) - Fetch Reddit posts and analyze with AI to surface top problems
