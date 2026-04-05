@@ -23,7 +23,7 @@ Previously at Microsoft and Booking.com. Founded Scipio.ai and Melchior Analytic
 
 📢 [rule1.ai](https://rule1.ai) – Creative intelligence platform helping 500+ marketing teams find what actually converts.
 
-📦 [boxd.sh](https://boxd.sh) – Containerized dev environments.
+📦 [boxd.sh](https://boxd.sh) – Instant remote computers, built on Azin. Persistent, forkable Linux machines with sub-millisecond resume. SSH-first, custom Rust VMM, <60ms fork. Costs nothing while it sleeps.
 
 ---
 
