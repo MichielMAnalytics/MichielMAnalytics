@@ -1,6 +1,6 @@
 # Hi, I'm Michiel 👋
 
-📍 Amsterdam | 🤖 Polyagent builder | 🚀 Founder
+📍 Amsterdam | 🛠 Agent Builder & Techno-Optimist | 🚀 Founder
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -11,17 +11,23 @@
 ![CLI](https://img.shields.io/badge/CLI-black?style=flat&logo=windowsterminal&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-7C3AED?style=flat)
 
-> Deep in vibe-coding mode - building AI agents, CLI tools, and infrastructure at speed. If it can be automated, it should be.
+> I build multi-agent systems and autonomous workflows. Deep in agent SDKs, memory architectures, planning/reasoning patterns, and everything it takes to make AI agents reliable at scale.
 
-🚀 [azin.run](https://azin.run) - Deploy anything from your terminal. Zero-config cloud deployments.
+Previously at Microsoft and Booking.com. Founded Scipio.ai and Melchior Analytics.
 
-📦 [boxd.sh](https://boxd.sh) - Containerized dev environments.
-
-📢 [rule1.ai](https://rule1.ai) - AI-powered advertising.
+2:42 marathoner. Chess enthusiast.
 
 ---
 
-## Current Projects
+🚀 [azin.run](https://azin.run) – Making the cloud simple and secure for the new generation of builders. Proprietary cloud runtime with sub-10ms startup times. No cold starts. No paying for idle. European-built, European-hosted.
+
+📢 [rule1.ai](https://rule1.ai) – Creative intelligence platform helping 500+ marketing teams find what actually converts.
+
+📦 [boxd.sh](https://boxd.sh) – Containerized dev environments.
+
+---
+
+## Open Source
 
 - 🧬 [lifeos](https://github.com/MichielMAnalytics/lifeos) - Personal Life Operating System — CLI + API + Dashboard with 6 themes. Open source, self-hostable.
 - 🐦 [bird-rebuilt](https://github.com/MichielMAnalytics/bird-rebuilt) - Twitter/X CLI client
