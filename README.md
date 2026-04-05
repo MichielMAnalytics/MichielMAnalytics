@@ -46,3 +46,12 @@ Co-founder of [Azin](https://azin.run) and [Rule1](https://rule1.ai). Previously
 - 📡 [telegram-public-channel-mcp](https://github.com/MichielMAnalytics/telegram-public-channel-mcp) - Telegram public channel MCP integration
 - 📣 [meta-ads-mcp](https://github.com/MichielMAnalytics/meta-ads-mcp) - MCP server to manage Facebook and Instagram Ads (Meta Ads)
 - 🔍 [reddit_analysis](https://github.com/MichielMAnalytics/reddit_analysis) - Fetch Reddit posts and analyze with AI to surface top problems
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/Michiel%20Voortman-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michiel-voortman/)
+[![X](https://img.shields.io/badge/@michielmv-000000?style=flat&logo=x&logoColor=white)](https://x.com/michielmv)
+[![Substack](https://img.shields.io/badge/The%20Application%20Layer-FF6719?style=flat&logo=substack&logoColor=white)](https://applicationlayer.substack.com/)
+[![GitHub](https://img.shields.io/badge/Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/MichielMAnalytics)
