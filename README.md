@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Michiel 👋
 
-<!--
-**MichielMAnalytics/MichielMAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Amsterdam | 🤖 Polyagent builder | 🚀 Founder
 
-Here are some ideas to get you started:
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-black?style=flat&logo=windowsterminal&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-7C3AED?style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Deep in vibe-coding mode - building AI agents, CLI tools, and infrastructure at speed. If it can be automated, it should be.
+
+🚀 [azin.run](https://azin.run) - Deploy anything from your terminal. Zero-config cloud deployments.
+
+📦 [boxd.sh](https://boxd.sh) - Containerized dev environments.
+
+📢 [rule1.ai](https://rule1.ai) - AI-powered advertising.
+
+---
+
+## Current Projects
+
+- 🧬 [lifeos](https://github.com/MichielMAnalytics/lifeos) - Personal Life Operating System — CLI + API + Dashboard with 6 themes. Open source, self-hostable.
+- 🐦 [bird-rebuilt](https://github.com/MichielMAnalytics/bird-rebuilt) - Twitter/X CLI client
+- 💼 [bird-linkedin](https://github.com/MichielMAnalytics/bird-linkedin) - LinkedIn CLI using undocumented Voyager API with anti-detection
+- 🔴 [bird-reddit](https://github.com/MichielMAnalytics/bird-reddit) - Reddit CLI with cookie auth and Chrome TLS fingerprinting
+- ⛓️ [on-chain-classifier](https://github.com/MichielMAnalytics/on-chain-classifier) - On-chain transaction classifier
+- 🔗 [webhook-relay](https://github.com/MichielMAnalytics/webhook-relay) - Self-hosted webhook inspection & relay tool (Go + PostgreSQL + WebSocket)
+- 📊 [pipeguru-ssr-api](https://github.com/MichielMAnalytics/pipeguru-ssr-api) - FastAPI wrapper for semantic-similarity-rating
+- 📱 [portfolio-app](https://github.com/MichielMAnalytics/portfolio-app) - Folio — iOS portfolio tracker with crypto, screenshot import via LLM, CSV import
+- 🤖 [remote-mcp-server](https://github.com/MichielMAnalytics/remote-mcp-server) - Remote MCP server
+- 📡 [telegram-public-channel-mcp](https://github.com/MichielMAnalytics/telegram-public-channel-mcp) - Telegram public channel MCP integration
+- 🔍 [reddit_analysis](https://github.com/MichielMAnalytics/reddit_analysis) - Fetch Reddit posts and analyze with AI to surface top problems
