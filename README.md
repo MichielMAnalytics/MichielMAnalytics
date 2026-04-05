@@ -25,7 +25,7 @@ Previously at Microsoft and Booking.com. Founded Scipio.ai and Melchior Analytic
 
 📦 [boxd.sh](https://boxd.sh) – Instant remote computers, built on Azin. Persistent, forkable Linux machines with sub-millisecond resume. SSH-first, custom Rust VMM, <60ms fork. Costs nothing while it sleeps.
 
-🐾 [clawnow](https://azin.run/product/claw-now) (closed source) – OpenClaw deployment platform on Azin.
+🐾 [clawnow](https://azin.run/product/claw-now) – OpenClaw deployment platform on Azin.
 
 ---
 
