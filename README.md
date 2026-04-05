@@ -29,30 +29,16 @@ Previously at Microsoft and Booking.com. Founded Scipio.ai and Melchior Analytic
 
 ---
 
-## Closed Source
-
-- 🎵 bird-tiktok - TikTok CLI client — completing the bird suite
-- 🧠 agentic-summaries - Finding signals through the noise
-- 🚨 on-chain-alert-system - On-chain alert system
-- 🤖 ml-inference-api - ML inference API
-- 📬 event-pipeline - Event pipeline
-
----
-
-## Open Source
-
-### Azin / Boxd
+## Current Projects
 
 - 🔥 [ignition](https://github.com/lttle-cloud/ignition) - The engine powering boxd — tiny clouds inc.
 - 🧰 [mini-tools](https://github.com/azin-tech/mini-tools) - 22 zero-config developer utilities — YAML, JSON, Base64, Cron, DNS, JWT, Dockerfile, and more
 - 📖 [boxd-docs](https://github.com/azin-tech/boxd-docs) - Boxd documentation
-
-### Personal
-
 - 🧬 [lifeos](https://github.com/MichielMAnalytics/lifeos) - Personal Life Operating System — CLI + API + Dashboard with 6 themes. Open source, self-hostable.
 - 🐦 [bird-rebuilt](https://github.com/MichielMAnalytics/bird-rebuilt) - Twitter/X CLI client
 - 💼 [bird-linkedin](https://github.com/MichielMAnalytics/bird-linkedin) - LinkedIn CLI using undocumented Voyager API with anti-detection
 - 🔴 [bird-reddit](https://github.com/MichielMAnalytics/bird-reddit) - Reddit CLI with cookie auth and Chrome TLS fingerprinting
+- 🎵 bird-tiktok (closed source) - TikTok CLI client — completing the bird suite
 - ⛓️ [on-chain-classifier](https://github.com/MichielMAnalytics/on-chain-classifier) - On-chain transaction classifier
 - 🔗 [webhook-relay](https://github.com/MichielMAnalytics/webhook-relay) - Self-hosted webhook inspection & relay tool (Go + PostgreSQL + WebSocket)
 - 📊 [pipeguru-ssr-api](https://github.com/MichielMAnalytics/pipeguru-ssr-api) - FastAPI wrapper for semantic-similarity-rating
@@ -60,3 +46,7 @@ Previously at Microsoft and Booking.com. Founded Scipio.ai and Melchior Analytic
 - 🤖 [remote-mcp-server](https://github.com/MichielMAnalytics/remote-mcp-server) - Remote MCP server
 - 📡 [telegram-public-channel-mcp](https://github.com/MichielMAnalytics/telegram-public-channel-mcp) - Telegram public channel MCP integration
 - 🔍 [reddit_analysis](https://github.com/MichielMAnalytics/reddit_analysis) - Fetch Reddit posts and analyze with AI to surface top problems
+- 🧠 agentic-summaries (closed source) - Finding signals through the noise
+- 🚨 on-chain-alert-system (closed source) - On-chain alert system
+- 🤖 ml-inference-api (closed source) - ML inference API
+- 📬 event-pipeline (closed source) - Event pipeline
