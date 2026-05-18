@@ -31,6 +31,7 @@ Co-founder of [Azin](https://azin.run) and [Rule1](https://rule1.ai). Previously
 
 ## Current Projects
 
+- 🖥️ [michielvoortman](https://github.com/MichielMAnalytics/michielvoortman) - Personal site as a 3D VT100, with the real terminal running inside the CRT — Three.js + xterm.js + PTY. Live at [michielvoortman.boxd.sh](https://michielvoortman.boxd.sh/)
 - 🔥 [ignition](https://github.com/lttle-cloud/ignition) - The KVM microVM runtime underlying [boxd.sh](https://boxd.sh)
 - 🧰 [mini-tools](https://github.com/azin-tech/mini-tools) - 22 zero-config developer utilities — YAML, JSON, Base64, Cron, DNS, JWT, Dockerfile, and more
 - 📖 [boxd-docs](https://github.com/azin-tech/boxd-docs) - Boxd documentation
