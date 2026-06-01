@@ -19,11 +19,9 @@ Co-founder of [Azin](https://azin.run) and [Rule1](https://rule1.ai). Previously
 
 ---
 
-🚀 [azin.run](https://azin.run) – Making the cloud simple and secure for the new generation of builders. Proprietary cloud runtime with sub-10ms startup times. No cold starts. No paying for idle. European-built, European-hosted.
+📦 [boxd.sh](https://boxd.sh) – Instant remote computers, built on Azin. Persistent, forkable Linux machines with sub-millisecond resume. SSH-first, custom Rust VMM, <60ms fork. Costs nothing while it sleeps.
 
 📢 [rule1.ai](https://rule1.ai) – Creative intelligence platform helping 500+ marketing teams find what actually converts.
-
-📦 [boxd.sh](https://boxd.sh) – Instant remote computers, built on Azin. Persistent, forkable Linux machines with sub-millisecond resume. SSH-first, custom Rust VMM, <60ms fork. Costs nothing while it sleeps.
 
 🐾 [clawnow](https://azin.run/product/claw-now) – OpenClaw deployment platform on Azin.
 
